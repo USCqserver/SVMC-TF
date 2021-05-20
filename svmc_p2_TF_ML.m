@@ -54,7 +54,6 @@ A_sp1 = @(s)interp1(slist,A_s,s);
 B_sp1 = @(s)interp1(slist,B_s,s);
 
 tau = 1e-6; 
-% tf = 2*tau*(1-sstar);
 tf = tau;
 
 inslist = linspace(0,1,step+1);
