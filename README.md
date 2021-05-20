@@ -1,5 +1,5 @@
 # SVMC-TF
 
-input 60-qubit instances
+Input: 60-qubit instances
 
-output bitstring distribution
+Output bitstring distribution
